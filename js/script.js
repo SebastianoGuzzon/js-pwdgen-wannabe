@@ -27,5 +27,5 @@ console.log(colorepreferito)
 // Stampa su Html
 
 document.getElementById('saluto').innerHTML += ' ' + nome + cognome + colorepreferito + 23 
-// 23 Scritto così? Non credo..
+
 
